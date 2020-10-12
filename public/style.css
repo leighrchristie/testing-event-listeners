@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+    font-family: 'Economica', sans-serif;
+}
+
+.droptarget {
+    float: left; 
+    text-align: center;
+    width: 100px; 
+    height: 35px;
+    margin: 15px;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+  }
